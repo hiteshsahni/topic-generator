@@ -1,2 +1,2 @@
 # topic-generator
-Generates topics to create content when user enters a keyword
+Generates titles to create content when user enters a topic
